@@ -12,7 +12,6 @@ class Student():
 
 
 nir = Student(student1, 2021)
-
 nir.speak()
 
 
