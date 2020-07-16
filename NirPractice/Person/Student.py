@@ -1,6 +1,5 @@
 from NirPractice.Person import person1 as student1
 
-
 class Student():
     def __init__(self, person, graduationyear):
         self.person = student1
@@ -13,5 +12,6 @@ class Student():
 
 nir = Student(student1, 2021)
 nir.speak()
+
 
 
